@@ -11,7 +11,7 @@ terraform {
     organization = "techlearnings23"
 
     workspaces {
-      name = "terraform_published_module"
+      name = "terraform_cli_raj"
     }
   }
 }
